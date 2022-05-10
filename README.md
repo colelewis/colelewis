@@ -5,7 +5,7 @@ Currently, I am learning ReactJS and adjacent web-frameworks to construct progre
 
 I am interested in developing robust applications that can compare to the performance and utility of traditional desktop applications. As mobile/low-performance devices become increasingly common as alternatives to desktop computers, it is important that the same sort of software become available by the most ubiquitous point of access in our daily lives: the web browser.
 
-Feel free to reach out for collaboration, opportunities, or, just to say hello either here or at my [email](mailto:cloudylint@protonmail.com)!
+Feel free to reach out for collaboration, answers to questions, or, just to say hello either here or at my [email](mailto:cloudylint@protonmail.com)!
 <!---
 colelewis/colelewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
