@@ -8,7 +8,7 @@ As mobile/low-performance devices become increasingly common as alternatives to 
 
 A lot of my repos will have the word "pocket" somewhere in the name since the size/utility of each one is like something you'd carry around in your pocket! 
 
-Feel free to reach out for collaboration, answers to questions, or, just to say hello either here or at my [email](mailto:cloudylint@protonmail.com)!
+Feel free to reach out for collaboration, answers to questions, or, just to say hello either here or at my [email](mailto:cole.g.lewis@gmail.com)!
 <!---
 colelewis/colelewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
