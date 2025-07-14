@@ -1,7 +1,7 @@
 ### Hey! ⭐️
 My name is Cole Lewis, I am a full-stack developer specializing in Angular, Python (Flask/Django), and data analysis!
 
-I'm interested in pursuing functional programming, and machine learning!
+I'm interested in pursuing functional programming and machine learning alongside game development!
 
 A lot of my repos will have the word "pocket" somewhere in the name since the size/utility of each one is like something small and simple like you'd carry around in your pocket! 
 <!---
